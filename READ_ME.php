@@ -1,1 +1,1 @@
-To jest mój kolejny test!
+To jest mój kolejny test! GNR!
