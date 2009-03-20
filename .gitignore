@@ -2,4 +2,4 @@
 *.cache
 *.log
 *.pid
-tmp/**/*
+tmp/*
