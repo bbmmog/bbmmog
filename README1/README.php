@@ -1,1 +1,1 @@
-Plik1
+Plik1 - mala zmiana!!!
